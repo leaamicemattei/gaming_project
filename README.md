@@ -15,7 +15,7 @@ Ce dépôt contient une série d'analyses de data science centrées sur l'**indu
 ## ⤴️ Progression Actuelle
 
 ### Terminé
-- **Collecte de Données** ([[Gaming - part 1.ipynb](lien-vers-notebook)](https://github.com/leaamicemattei/gaming_project/blob/main/Gaming%20-%20part%201.ipynb))
+- **Collecte de Données** (Gaming - part 1)
   - Extraction de données complètes sur les jeux via plusieurs API de gaming
   - Structuration et nettoyage du jeu de données pour les analyses ultérieures
 
